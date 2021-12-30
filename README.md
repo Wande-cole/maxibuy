@@ -4,13 +4,13 @@
 
 ### Setting up
 
-1. Clone the project in this repository into your local machine -- `git clone https://github.com/Wande-cole/maxibuy.git`
+1. Clone the project in this repository into your local machine -- `$ git clone https://github.com/Wande-cole/maxibuy.git`
 
-2. Open the project directory, run -- `cd maxibuy`
+2. Open the project directory, run -- `$ cd maxibuy`
 
-3. In the directory on your local machine, via the terminal, run -- `php artisan migrate`
+3. In the directory on your local machine, via the terminal, run -- `$ php artisan migrate`
 
-4. Still in the terminal, run -- `php artisan serve`
+4. Still in the terminal, run -- `$ php artisan serve`
 
 ### Using the application
 
